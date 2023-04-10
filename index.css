@@ -42,20 +42,20 @@ button {
 @media (max-width: 576px) {
   /* Adjust font sizes and spacing for smaller screens */
   html {
-    font-size: 14px;
+    font-size: 65px;
   }
 
   h1 {
-    font-size: 2rem;
-    margin-top: 1.5rem;
-    line-height: 2.5rem; /* decrease line height for smaller screens */
+    font-size: 20rem;
+    margin-top: 10.5rem;
+    line-height: 20.5rem; /* decrease line height for smaller screens */
   }
 
   button {
-    width: 10rem;
-    padding: 1rem;
-    font-size: 1rem;
-    margin-bottom: 0.5rem;
-    margin-top: 0.5rem;
+    width: 40rem;
+    padding: 10rem;
+    font-size: 10rem;
+    margin-bottom: 10.5rem;
+    margin-top: 10.5rem;
   }
 }
