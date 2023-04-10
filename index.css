@@ -39,7 +39,7 @@ button {
 }
 
 /* Media query for small screens */
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   /* Adjust font sizes and spacing for smaller screens */
   html {
     font-size: 65px;
